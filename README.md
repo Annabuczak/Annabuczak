@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Anna 👋
 
-<!--
-**Annabuczak/Annabuczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student (BSc Cyber Security – University of Essex Online) building strong foundations in Linux systems, networking, and defensive security practices.
 
-Here are some ideas to get you started:
+Currently developing practical, hands-on experience through structured lab work and disciplined study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔵 Current Focus
+
+- Strengthening Linux system fundamentals  
+- Understanding services, processes, and permissions  
+- Practising network scanning and traffic analysis  
+- Developing automation capability with Python  
+
+---
+
+## 🎓 Education
+
+BSc (Hons) Cyber Security  
+University of Essex Online  
+Expected graduation: 2028
+
+---
+
+## 🧰 Tools & Technologies
+
+- Ubuntu (VirtualBox lab environment)
+- Bash
+- Git & GitHub
+- Nmap
+- Wireshark
+- Python
+
+---
+
+## 🎯 2026 Goal
+
+Transition into an entry-level cybersecurity role with strong Linux and Blue Team capabilities.
+
+
