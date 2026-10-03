@@ -1,34 +1,71 @@
-# Hi, I'm Anna
+Hi, I’m Anna 👋
 
-I'm a BSc Cyber Security student at the University of Essex Online, building practical skills in Linux, networking, Python, and defensive security.
+I’m a Junior Infrastructure & Security Engineer and BSc Cyber Security student at the University of Essex Online, building hands-on experience across infrastructure, networking, systems administration, and defensive security.
 
-My current focus is becoming confident with Blue Team foundations: understanding how systems behave, how networks communicate, and how security events can be investigated clearly and methodically.
+I’m particularly interested in understanding how systems and networks work in real environments — from troubleshooting connectivity and infrastructure issues to securing systems, analysing traffic, and investigating security events.
 
-## Current Focus
+🔧 Current Focus
 
-- Linux system fundamentals: permissions, processes, services, and logs
-- Networking basics: IP addressing, scanning, packet analysis, and troubleshooting
-- Python scripting and automation
-- SOC-style investigation practice
-- Clear technical documentation and reproducible lab notes
+* Infrastructure and network troubleshooting
+* TCP/IP, subnetting, VLANs, routing and switching
+* Windows and Linux administration
+* Network and endpoint security
+* Wireshark and packet analysis
+* PowerShell and Python automation
+* Security monitoring and Blue Team fundamentals
+* Clear technical documentation and reproducible lab notes
+* CompTIA Network+ preparation
 
-## Featured Projects
+🚀 Featured Projects
 
-- [Cyber Labs](https://github.com/Annabuczak/cyber-labs) - Practical cybersecurity lab notes covering Linux, networking, hardening, and detection thinking.
-- [RiseUp Kids PWA](https://github.com/Annabuczak/riseup-kids-pwa) - Browser-based behaviour tracking app built with HTML, CSS, JavaScript, local storage, and PWA basics.
-- [BSc Cyber Security Coursework](https://github.com/Annabuczak/bsc-cybersecurity) - Coursework and practical exercises from my cyber security degree.
-- [Portfolio Website](https://annabuczak.github.io) - Personal portfolio for projects, coursework, and technical learning progress.
+🌐 Network Labs
 
-## Tools And Technologies
+Hands-on networking labs covering IP addressing, subnetting, VLANs, routing, wireless networking, network segmentation and troubleshooting.
 
-Python, Bash, Git, GitHub, Ubuntu, VirtualBox, Nmap, Wireshark, HTML, CSS, JavaScript
+🛡️ Cyber Labs
 
-## Education
+Practical cybersecurity labs covering Linux, system hardening, network security, traffic analysis and defensive security concepts.
 
-BSc (Hons) Cyber Security  
-University of Essex Online  
+💻 IT Support Labs
+
+Practical Windows and IT support scenarios covering user accounts, permissions, services, connectivity, system troubleshooting and common support issues.
+
+📱 RiseUp Kids PWA
+
+Browser-based behaviour tracking application built with HTML, CSS, JavaScript, local storage and Progressive Web App fundamentals.
+
+🎓 BSc Cyber Security Coursework
+
+Coursework and practical exercises from my Cyber Security degree.
+
+🌍 Portfolio Website
+
+Personal portfolio documenting projects, coursework, technical labs and my progression into infrastructure and cybersecurity.
+
+🛠️ Tools & Technologies
+
+Networking: TCP/IP, VLANs, DHCP, DNS, NAT, Wireshark, Cisco Packet Tracer
+
+Systems: Windows, Windows 11, Linux, Ubuntu, Active Directory fundamentals
+
+Security: Nmap, Wireshark, network segmentation, system hardening, security monitoring
+
+Scripting & Automation: Python, PowerShell, Bash
+
+Development & Tools: Git, GitHub, HTML, CSS, JavaScript, VirtualBox
+
+🎓 Education
+
+BSc (Hons) Cyber Security
+University of Essex Online
 Expected graduation: 2028
 
-## 2026 Goal
+📚 Currently Learning
 
-Build a strong foundation for an entry-level cybersecurity role, especially in SOC analysis, Linux administration, and Blue Team investigation.
+CompTIA Network+
+
+Alongside my degree and professional experience, I’m developing deeper knowledge of networking, infrastructure and security through hands-on labs and technical projects.
+
+🎯 2026 Goal
+
+Develop strong real-world foundations as a Junior Infrastructure & Security Engineer, strengthen my networking knowledge through Network+, and continue building practical skills across infrastructure, networking, systems administration and defensive security.
